@@ -78,5 +78,4 @@ Freeze takes inspiration from:
 
 ## Demos
 
-See [demonstrations](https://benbrimeyer.github.io/Freeze/docs/Demonstration)
-within our docs!
+See [demonstrations](https://ahmoin.github.io/Freeze/docs/Demonstration) with in our docs!
