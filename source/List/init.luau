@@ -56,6 +56,7 @@ return {
 	sort = require(script.sort),
 	take = require(script.take),
 	takeLast = require(script.takeLast),
+	toSet = require(script.toSet),
 	unshift = require(script.unshift),
 	update = require(script.update),
 	zip = require(script.zip),
