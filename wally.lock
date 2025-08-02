@@ -3,11 +3,6 @@
 registry = "test"
 
 [[package]]
-name = "duckarmor/freeze"
+name = "ahmoin/freeze"
 version = "0.1.0"
-dependencies = []
-
-[[package]]
-name = "roblox/testez"
-version = "0.4.1"
 dependencies = []

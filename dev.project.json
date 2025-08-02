@@ -16,15 +16,6 @@
                     "$path": "source"
                 }
             }
-        },
-        "TestService": {
-            "$className": "TestService",
-            "__WatcherDirectories": {
-                "$path": "bin/test-watcher.lua"
-            },
-            "unit-runner": {
-                "$path": "bin/unit-runner.server.lua"
-            }
         }
     }
 }
